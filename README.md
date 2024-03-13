@@ -11,5 +11,5 @@ Para executar esta API localmente, siga estas etapas:
 
 1.  Clone este repositório para a sua máquina. Link : https://github.com/robertojr20/API-FILMES-.git
 2.  Navegue até o diretório do projeto.
-3.  Inicie o servidor com  "yarn start"  (ou o nome do seu arquivo principal).
+3.  Inicie o servidor com  "yarn start".
 4.  Acesse  `http://localhost:3000/filmes`  para ver a lista de filmes.
